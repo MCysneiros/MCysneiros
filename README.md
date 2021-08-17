@@ -1,4 +1,15 @@
-### Howdy eu sou o Matheus Cysneiros 👋
+### 
+
+Hi there, I'm Matheus Cysneiros 👩‍💻
+
+👨‍🎓 Studying: Psychology at UNIVASF;
+
+🌱 Learning: React and Typescript;
+
+🎒 Main Tools: Visual Studio Code and GitHub;
+
+
+<br>
  <div>
   <a href="https://github.com/MCysneiros">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MCysneiros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
