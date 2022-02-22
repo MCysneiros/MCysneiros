@@ -2,9 +2,9 @@
 
 Hi there, I'm Matheus Cysneiros 👩‍💻
 
-👨‍🎓 Studying: Psychology at UNIVASF;
+👨‍🎓 Studying: Si at PUC-Minas;
 
-🌱 Learning: React and Typescript;
+🌱 Learning: Three.js and NextJs;
 
 🎒 Main Tools: Visual Studio Code and GitHub;
 
